@@ -26,6 +26,7 @@ key_js.js 是逆向过程中关键js摘录
 
 ## 作者  
 - @Pafonshaw
+- QQ: 271607916
 
 ## 开源协议
 - MIT License
